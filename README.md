@@ -2,7 +2,7 @@
 PhD, scientist, senior researcher in Materials Science. 
 Junior data analyst.
 
-Technical Stack:
+Stack:
 - Python
 - SQL
 - GIT
